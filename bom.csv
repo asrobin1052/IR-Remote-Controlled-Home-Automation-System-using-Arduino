@@ -1,0 +1,12 @@
+﻿Name,Quantity,Component
+"U Arduino",1," Arduino Uno R3"
+"S  Switch 1, S  Switch 2, S  Switch 3, S  Switch 4",4," Pushbutton"
+"K Relay 1, K Relay 2, K Relay 3, K Relay 4",4," Relay SPDT"
+"U Sensor",1," IR sensor"
+"P Power Source",1,"12 , 5  Power Supply"
+"L Tube Bulb",1," Light bulb"
+"M Motor",1," DC Motor"
+"M Gearmotor",1," Hobby Gearmotor"
+"M Vibration Motor",1," Vibration Motor"
+"D Switch Number 1 LED, D Switch Number 3 LED, D Switch Number 2 LED, D Switch Number 4 LED",4,"Green LED"
+"R Resistor 3 for LED 3, R Resistor 2 for LED 2, R Resistor 1 for LED 1, R Resistor 4 for LED 4",4,"1 kΩ Resistor"
